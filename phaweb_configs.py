@@ -1,10 +1,10 @@
 # Credential constants
-PHA_USERNAME = "wseng"
-PHA_PASSWORD = "MTQzNl4qKl51azVsNWFhaHVrNWw1YWFo"
-BOB_AI_USER_ID = "bhargav@bob.ai"
-BOB_AI_PASSWORD = "Pegasus@123"
-BOB_AI_API_KEY = "54cde33f-249b-448d-b99a-9c7488dc591d"
-PHA_CUSTOMER_CODE = "TX009"
+PHA_USERNAME = ""
+PHA_PASSWORD = ""
+BOB_AI_USER_ID = ""
+BOB_AI_PASSWORD = ""
+BOB_AI_API_KEY = ""
+PHA_CUSTOMER_CODE = ""
 PHA_SOURCE_NAME = "WEB INSPECTION"
 
 #Instance Constants
